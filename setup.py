@@ -18,7 +18,7 @@ requirements = [
 setup(
     name='swapi',
     version='0.1.3',
-    description='A Python helper library for swapi.co - the Star Wars API',
+    description='A Python helper library for swapi.dev - the Star Wars API',
     long_description=readme + '\n\n' + history,
     author='Paul Hallett',
     author_email='paulandrewhallett@gmail.com',

@@ -12,7 +12,7 @@ swapi-python
         :target: https://pypi.python.org/pypi/swapi
 
 
-A Python helper library for swapi.co - the Star Wars API
+A Python helper library for swapi.dev - the Star Wars API
 
 NOTE: Tests will run against hosted API as opposed to data from github repo
 
